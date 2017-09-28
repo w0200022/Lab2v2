@@ -1,0 +1,58 @@
+/*CSS for lab 1 - special topics
+Andrew MacLennan, w0200022 */
+
+#front {
+    position: absolute;
+    left: 30px;
+    top: 100px;
+    z-index: -1;
+}
+
+#back {
+    position: absolute;
+    z-index: 1;
+}
+
+#phil {
+    width: 315px;
+    height:275px;
+}
+
+#phil2{
+    width: 315px;
+    height:275px;
+}
+
+#step2{
+    position: absolute;
+    top: 400px;
+    width: 100%;
+
+}
+
+#h1, #h2, #h3, #h4{
+    background-color: powderblue;
+}
+
+#p1, #p2, #p3, #p4{
+    display: none;
+}
+
+#step3{
+    position: absolute;
+    top: 350px;
+    width: 100%;
+}
+
+#textLine{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#pic{
+    height: 300px;
+    width: 300px;
+
+}
+
+
